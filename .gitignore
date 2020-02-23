@@ -1,0 +1,11 @@
+# ipython notebook checkpointes
+.ipynb_checkpoints
+
+**/.__pycache__
+
+# large subfolders
+data
+fig
+
+# misc
+.DS_STORE
